@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">DogPark</string>
+    <string name="change_mode">  Change Mode</string>
+    <string name="dogs_in_park">Dogs in Park:</string>
+    <string name="reset">  Reset</string>
+    <string name="entry_fragment_title">Enter a Dog</string>
+    <string name="entry_button_text">Enter</string>
+    <string name="exit_fragment_title">Exit a Dog</string>
+    <string name="exit_button_text">Exit</string>
+    <string name="max_dogs">Max Dogs:</string>
+    <string name="invalid_max">Invalid Max</string>
+    <string name="toast_entry_fail">Could not enter dog, park is full</string>
+    <string name="toast_exit_fail">Could not exit dog, park is empty</string>
+    <string name="toast_invalid_max">Max must be greater than 0</string>
+    <string name="toast_invalid_num_dogs">Number of dogs must be greater than 0</string>
+    <string name="toast_max_reached">Max dogs in park</string>
+</resources>
